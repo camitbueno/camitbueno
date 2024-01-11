@@ -1,4 +1,4 @@
-<h1 align="center">Oi,eu sou a Camila, mas prefiro que me chamem de Camis!</h1>
+<h1 align="center">Oi, eu sou a Camis!</h1>
 <h3 align="center">Estudante de Big Data e Inteligência Analítica, mas também gestora comercial e master em Negócios Internacionais!</h3>
 
 - 🌱 Atualmente estou estudando **Machine Learning**
