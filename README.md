@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou a Camis!</h1>
-<h3 align="center">Estudante de Big Data e Inteligência Analítica, mas também gestora comercial e master em Negócios Internacionais!</h3>
+<h3 align="center">Estudante de Big Data e Inteligência Analítica, mas também Gestora Comercial e master em Negócios Internacionais!</h3>
 
 - 🌱 Atualmente estou estudando **Machine Learning**
 
