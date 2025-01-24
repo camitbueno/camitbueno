@@ -3,7 +3,7 @@
 ###
 
 <h3 align="center">Estudante de Big Data e Inteligência Analítica, mas também Gestora Comercial e master em Negócios Internacionais!</h3>
-Atualmente estou estudando **Machine Learning e SQL**
+🌱Atualmente estou estudando **Machine Learning e SQL**
 
 <img align="right" height="150" src="https://dinoverse.net/wp-content/uploads/2022/04/hi.gif"  />
 
