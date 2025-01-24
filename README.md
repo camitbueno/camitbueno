@@ -34,6 +34,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/camitbueno/camitbueno/output/snake.svg" alt="Snake animation" />
-
-###
